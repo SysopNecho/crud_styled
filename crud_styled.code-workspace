@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "back"
+		},
+		{
+			"path": "front"
+		}
+	],
+	"settings": {
+		"terminal.integrated.defaultProfile.linux": null,
+		"javascript.preferences.quoteStyle": "single"
+	}
+}
